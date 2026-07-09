@@ -54,13 +54,13 @@ void unmap_file(uint8_t *mapped, size_t size)
 
 /**
  * @brief Reads a 64-bit integer from big-endian binary data.
- * @param p Pointer to the byte array.
+ * @param pointer Pointer to the byte array.
  * @return The parsed 64-bit integer.
  */
-static inline uint64_t read_int64(const uint8_t *p)
+static inline uint64_t read_int64(const uint8_t *pointer)
 {
-    return ((uint64_t)p[0] << 56) | ((uint64_t)p[1] << 48) | ((uint64_t)p[2] << 40) | ((uint64_t)p[3] << 32) |
-           ((uint64_t)p[4] << 24) | ((uint64_t)p[5] << 16) | ((uint64_t)p[6] << 8) | (uint64_t)p[7];
+    return ((uint64_t)pointer[0] << 56) | ((uint64_t)pointer[1] << 48) | ((uint64_t)pointer[2] << 40) | ((uint64_t)pointer[3] << 32) |
+           ((uint64_t)pointer[4] << 24) | ((uint64_t)pointer[5] << 16) | ((uint64_t)pointer[6] << 8) | (uint64_t)pointer[7];
 }
 
 /**

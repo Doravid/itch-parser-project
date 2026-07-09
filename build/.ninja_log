@@ -1,0 +1,4 @@
+# ninja log v7
+1	30	1783026059883573254	CMakeFiles/itch_parser.dir/src/main.c.o	eb0159c870cf7980
+1	35	1783026059884543168	CMakeFiles/itch_parser.dir/src/db.c.o	1a97b8f2b822d2b
+1	41	1783026059884695313	CMakeFiles/itch_parser.dir/src/parser.c.o	1f4f43d247967cef

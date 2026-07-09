@@ -1,0 +1,3 @@
+/app/CMakeFiles/itch_parser.dir
+/app/CMakeFiles/edit_cache.dir
+/app/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/fern/Documents/projects/testing_folder/itch-parser/build",
+  "command": "/usr/bin/clang -I/home/fern/Documents/projects/testing_folder/itch-parser/include -I/home/fern/Documents/projects/testing_folder/itch-parser -g -std=gnu11 -o CMakeFiles/itch_parser.dir/src/main.c.o -c /home/fern/Documents/projects/testing_folder/itch-parser/src/main.c",
+  "file": "/home/fern/Documents/projects/testing_folder/itch-parser/src/main.c",
+  "output": "/home/fern/Documents/projects/testing_folder/itch-parser/build/CMakeFiles/itch_parser.dir/src/main.c.o"
+},
+{
+  "directory": "/home/fern/Documents/projects/testing_folder/itch-parser/build",
+  "command": "/usr/bin/clang -I/home/fern/Documents/projects/testing_folder/itch-parser/include -I/home/fern/Documents/projects/testing_folder/itch-parser -g -std=gnu11 -o CMakeFiles/itch_parser.dir/src/db.c.o -c /home/fern/Documents/projects/testing_folder/itch-parser/src/db.c",
+  "file": "/home/fern/Documents/projects/testing_folder/itch-parser/src/db.c",
+  "output": "/home/fern/Documents/projects/testing_folder/itch-parser/build/CMakeFiles/itch_parser.dir/src/db.c.o"
+},
+{
+  "directory": "/home/fern/Documents/projects/testing_folder/itch-parser/build",
+  "command": "/usr/bin/clang -I/home/fern/Documents/projects/testing_folder/itch-parser/include -I/home/fern/Documents/projects/testing_folder/itch-parser -g -std=gnu11 -o CMakeFiles/itch_parser.dir/src/parser.c.o -c /home/fern/Documents/projects/testing_folder/itch-parser/src/parser.c",
+  "file": "/home/fern/Documents/projects/testing_folder/itch-parser/src/parser.c",
+  "output": "/home/fern/Documents/projects/testing_folder/itch-parser/build/CMakeFiles/itch_parser.dir/src/parser.c.o"
+},
+{
+  "directory": "/home/fern/Documents/projects/testing_folder/itch-parser/build",
+  "command": "/usr/bin/clang++ -I/home/fern/Documents/projects/testing_folder/itch-parser/include -I/home/fern/Documents/projects/testing_folder/itch-parser -g -o CMakeFiles/itch_parser.dir/src/duckdb_stub.cpp.o -c /home/fern/Documents/projects/testing_folder/itch-parser/src/duckdb_stub.cpp",
+  "file": "/home/fern/Documents/projects/testing_folder/itch-parser/src/duckdb_stub.cpp",
+  "output": "/home/fern/Documents/projects/testing_folder/itch-parser/build/CMakeFiles/itch_parser.dir/src/duckdb_stub.cpp.o"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/clang++-18 CMakeFiles/itch_parser.dir/src/main.c.o CMakeFiles/itch_parser.dir/src/db.c.o CMakeFiles/itch_parser.dir/src/parser.c.o CMakeFiles/itch_parser.dir/src/duckdb_stub.cpp.o -o itch_parser  libduckdb_static.a -lpthread -ldl -lm -lstdc++ 

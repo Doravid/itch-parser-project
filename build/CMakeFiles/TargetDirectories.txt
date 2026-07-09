@@ -1,0 +1,3 @@
+/home/fern/Documents/projects/testing_folder/itch-parser/build/CMakeFiles/itch_parser.dir
+/home/fern/Documents/projects/testing_folder/itch-parser/build/CMakeFiles/edit_cache.dir
+/home/fern/Documents/projects/testing_folder/itch-parser/build/CMakeFiles/rebuild_cache.dir
